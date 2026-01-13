@@ -48,8 +48,3 @@ pnpm run dev
 ملاحظة تقنية: تأكد دائماً من وجود المنافذ 5432, 5001, 3000 في حالة Forwarded داخل VS Code لضمان الاتصال السلس.
 
 هل تود أن أقوم بكتابة ملف run.sh لتشغيل هذه النوافذ الثلاث بلمسة واحدة؟
-
-
-my current login:
-email achmontage@gmail.com
-pass "jhkjdshk767657(j-(è("
